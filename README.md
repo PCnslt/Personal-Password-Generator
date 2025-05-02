@@ -9,7 +9,7 @@ A simple GUI password manager with random password generation.
 python main.py
 ```
 
-2. Enter website, email (defaults to "email@domain.com"), and either:
+2. Enter website, email and either:
    - Type your password, or
    - Click "Generate Password" for a random one
 
